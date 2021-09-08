@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Brace
+- 👀 I’m interested in machine learning and reverse engineering
+- 🌱 I’m currently learning JavaScript, HTML, GO and Ruby on Rails
+- 📫 To contact me please send an email to braceasproul@gmail.com
